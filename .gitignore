@@ -1,0 +1,37 @@
+*.iml
+.gradle
+local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+
+# Android Studio
+.idea/
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Signing
+*.jks
+*.keystore
+
+# Log Files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
